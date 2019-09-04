@@ -64,3 +64,12 @@ sysinfo.txt
 .unitypackage
 
 .DS_Store
+Gizmos/Cinemachine/cm_logo_lg.png
+
+Gizmos/Cinemachine/cm_logo_lg.png.meta
+
+ProjectSettings/UnityConnectSettings.asset
+
+ProjectSettings/QualitySettings.asset
+
+ProjectSettings/NetworkManager.asset
