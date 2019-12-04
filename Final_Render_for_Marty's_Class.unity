@@ -4036,14 +4036,14 @@ RectTransform:
   m_GameObject: {fileID: 761011981}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5613, y: 1.5613, z: 1.5613}
+  m_LocalScale: {x: 1.186588, y: 1.186588, z: 1.186588}
   m_Children: []
   m_Father: {fileID: 357087896}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -63, y: 129}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -79, y: -117}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &761011983
@@ -7969,14 +7969,14 @@ RectTransform:
   m_GameObject: {fileID: 1716466507}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.0766904, y: 2.0766904, z: 2.0766904}
+  m_LocalScale: {x: 1.4694039, y: 1.4694039, z: 1.4694039}
   m_Children: []
   m_Father: {fileID: 1958352779}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -35, y: -106}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 218, y: -85}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1716466509
@@ -10042,6 +10042,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 93513605784445947, guid: 0e47fd26a431f4f4bb40cc9c227a4170,
+        type: 3}
+      propertyPath: m_Name
+      value: Capsule
+      objectReference: {fileID: 0}
     - target: {fileID: -7104865279929820781, guid: 0e47fd26a431f4f4bb40cc9c227a4170,
         type: 3}
       propertyPath: m_Animations.Array.size
@@ -10052,11 +10057,6 @@ PrefabInstance:
       propertyPath: m_Animations.Array.data[0]
       value: 
       objectReference: {fileID: 7400000, guid: 109b8504922b2f04486d9046ca6fb496, type: 2}
-    - target: {fileID: 93513605784445947, guid: 0e47fd26a431f4f4bb40cc9c227a4170,
-        type: 3}
-      propertyPath: m_Name
-      value: Capsule
-      objectReference: {fileID: 0}
     - target: {fileID: 5415464573621110177, guid: 0e47fd26a431f4f4bb40cc9c227a4170,
         type: 3}
       propertyPath: m_LocalPosition.x
